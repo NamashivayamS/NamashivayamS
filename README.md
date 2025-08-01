@@ -16,7 +16,7 @@
   → `FinSight`: AI-powered finance assistant with Google Gemini & Fi Money  
   → `Fuel Mate`: Smart fuel tracking & mileage assistant  
   → `Conversational AI for Healthcare`: NLP-based medical chatbot  
-- 💬 Ask me about **Python**, **C++**, **NLP**, **Machine Learning**, and **OpenMP**
+- 💬 Ask me about **Python**,  **NLP**, **Machine Learning**
 - 🌐 I love solving real-world problems with a blend of **technology and design thinking**
 
 ---
@@ -28,4 +28,4 @@ Languages     = [ Python, JavaScript, SQL ]
 Frameworks    = [ Flask, React Native, OpenMP, TensorFlow, Scikit-learn ]
 Databases     = [ Firebase, MongoDB, MySQL ]
 Tools & APIs  = [ Git, Google Gemini, Google Maps API, VS Code, Jupyter ]
-Platforms     = [ Windows, Linux, GitHub, Kaggle ]
+Platforms     = [ Windows,  GitHub, Kaggle ]
