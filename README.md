@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing **Computer Science**, diving deep into **AI, Big Data, and NLP**
+- 🎓 I'm currently pursuing **M.Sc Data Science**, diving deep into **AI, Big Data, and NLP**
 - 🔭 Currently building:  
   → `FinSight`: AI-powered finance assistant with Google Gemini & Fi Money  
   → `Fuel Mate`: Smart fuel tracking & mileage assistant  
