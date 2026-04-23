@@ -4,7 +4,7 @@
 <h3 align="center">💻 Passionate Developer | 🚀 AI & Big Data Enthusiast | 🌱 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Engineer.+Builder.+Problem+Solver.;Conversational+AI+in+Healthcare.;AI+Finance+Assistant+with+Google+Gemini.;Big+Data+Computing+with+C%2B%2B+%26+OpenMP.&center=true&width=600&height=40" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Engineer.+Builder.+Problem+Solver.;Conversational+AI+in+Healthcare.;AI+Finance+Assistant+with+Google+Gemini.;Big+Data+Computing+OpenMP.&center=true&width=600&height=40" />
 </p>
 
 ---
