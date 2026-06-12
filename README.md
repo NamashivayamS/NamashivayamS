@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&lines=Agentic+AI+Systems+%E2%86%92+Built+from+scratch;Self-Healing+CI%2FCD+%E2%86%92+Autonomous+by+design;Spatial+Reasoning+Engine+%E2%86%92+Thinking+in+3D;NLP+%2B+Healthcare+%E2%86%92+Real+lives%2C+real+impact;Finance+AI+%E2%86%92+Where+data+meets+decisions)
+![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&lines=Agentic+AI+Systems+%E2%86%92+Autonomous+by+design;Self-Healing+CI%2FCD+%E2%86%92+Autonomous+by+design;Spatial+Reasoning+Engine+%E2%86%92+Thinking+in+3D;NLP+%2B+Healthcare+%E2%86%92+Real+lives%2C+real+impact;Finance+AI+%E2%86%92+Where+data+meets+decisions)
 
 </div>
 
