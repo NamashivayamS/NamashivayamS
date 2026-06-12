@@ -130,14 +130,6 @@ me.say_hi()
 
 ---
 
-## 🎯 2025 Goals
-
-- [ ] 🤖 Deploy **FinSight** as a live AI finance assistant
-- [ ] 🏥 Publish **Healthcare AI** with a public demo
-- [ ] 📦 Contribute to an open-source ML/NLP project
-- [ ] 📝 Write technical blog posts about my projects
-- [ ] 🎓 Complete M.Sc with distinction
-
 ---
 
 ## 🤝 Let's Connect
