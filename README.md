@@ -58,7 +58,30 @@ Tools       →  Git · Jupyter · VS Code · Kaggle
 <div align="center">
 
 [![Opalite](https://github-readme-stats.vercel.app/api/pin/?username=NamashivayamS&repo=Autonomous-CI-CD-Self-Healing-Agent&theme=tokyonight&hide_border=true)](https://github.com/NamashivayamS/Autonomous-CI-CD-Self-Healing-Agent)
-[![NexaEstate](https://github-readme-stats.vercel.app/api/pin/?username=NamashivayamS&repo=NexaEstate_Pro&theme=tokyonight&hide_border=true)](https://github.com/NamashivayamS/NexaEstate_Pro)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+ ██████████████████████████████████████████████████
+ █                                                █
+ █        [ ACCESS RESTRICTED ]                   █
+ █                                                █
+ █   NexaEstate Pro — Autonomous Spatial AI       █
+ █   Status        : Under active development     █
+ █   Visibility    : Private                      █
+ █   Stack         : Python · Gemini · React      █
+ █                                                █
+ █   Curious enough to want access?               █
+ █   Drop a message on LinkedIn — let's talk.     █
+ █                                                █
+ ██████████████████████████████████████████████████
+```
+
+[![Request Access](https://img.shields.io/badge/Request_Access-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/namashivayam-s-89602028a)
 
 </div>
 
