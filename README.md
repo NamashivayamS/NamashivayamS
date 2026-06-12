@@ -1,63 +1,109 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D2FF&height=200&section=header&text=Namashivayam%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Builder%20%7C%20Data%20Scientist%20%7C%20NLP%20Engineer&descAlignY=58&descSize=18" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/namashivayam-s-89602028a)
-[![GitHub followers](https://img.shields.io/github/followers/NamashivayamS?label=Follow&style=flat&color=6C63FF)](https://github.com/NamashivayamS)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Namashivayam%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=I%20don't%20write%20code.%20I%20engineer%20intelligence.&descAlignY=65&descSize=16&stroke=6C63FF&strokeWidth=2" />
 
 </div>
 
+<div align="center">
+
+![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&lines=Agentic+AI+Systems+%E2%86%92+Built+from+scratch;Self-Healing+CI%2FCD+%E2%86%92+No+human+needed;Spatial+Reasoning+Engine+%E2%86%92+Thinking+in+3D;NLP+%2B+Healthcare+%E2%86%92+Real+lives%2C+real+impact;Finance+AI+%E2%86%92+Where+data+meets+decisions)
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-Namashivayam%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/namashivayam-s-89602028a)
+&nbsp;
+![Visitors](https://api.visitorbadge.io/api/visitors?path=NamashivayamS&label=Profile%20Visits&labelColor=%230f0c29&countColor=%236C63FF&style=for-the-badge)
+
+</div>
+
+<br/>
+
 ---
 
-### Who am I?
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## `< Who am I />`
 
 ```python
-class Namashivayam:
-    degree     = "M.Sc Data Science"
-    location   = "India"
-    focus      = ["Agentic AI", "NLP", "Healthcare Tech", "Finance AI", "Autonomous Systems"]
-    mindset    = "If it can think, decide, and act — I build it."
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   class Namashivayam:                                        ║
+║       degree   = "M.Sc Data Science"                        ║
+║       base     = "India"                                     ║
+║       focus    = [                                           ║
+║                    "Agentic AI",                             ║
+║                    "Autonomous Systems",                     ║
+║                    "NLP & Language Models",                  ║
+║                    "Healthcare AI",                          ║
+║                    "Finance Intelligence",                   ║
+║                 ]                                            ║
+║       mindset  = "If it can think, decide & act — I build"  ║
+║                                                              ║
+║   # Not side projects. Not demos. Systems.                   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-I'm a data science student who builds things that actually work — not demos, not toy projects.  
-My work sits at the intersection of **autonomous agents**, **NLP**, and **real-world system design**.  
-I think deeply about problems before writing a single line of code.
+> I don't chase trends. I build the infrastructure that *becomes* the trend.  
+> My systems operate autonomously — they detect, decide, and act without waiting for a human.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### What I Build
-
-| Project | What it does |
-|---|---|
-| **Amazon Ad & Sales Intelligence Agent** | Autonomous agent that reads ad performance, detects patterns, and drives sales decisions |
-| **Opalite — Autonomous CI/CD Self-Healing Agent** | Monitors pipelines, diagnoses failures, and self-heals without human intervention |
-| **NexaEstate Pro — Spatial Reasoning Engine** | Spatial AI that understands and reasons across multi-dimensional property environments |
-| **FuelMate — Smart Fuel Predictor** | ML-powered fuel tracking and mileage prediction |
-| **Microblog — Real-Time Social Platform** | Event-driven, scalable social platform with live feeds |
-| **Healthcare Conversational AI** | BERT-powered chatbot for symptom detection and health guidance |
-| **Voice-Driven AI Mock Interview System** | Asks questions, listens to answers, evaluates performance using NLP |
-
----
-
-### Tech Stack
-
-```
-Languages   →  Python · JavaScript · SQL
-AI / ML     →  TensorFlow · Scikit-learn · HuggingFace · Google Gemini · BERT
-Backend     →  Flask · Firebase · MongoDB · MySQL
-Mobile      →  React Native
-Tools       →  Git · Jupyter · VS Code · Kaggle
-```
-
----
-
-### Featured Projects
+## `< What I Build />`
 
 <div align="center">
 
-[![Opalite](https://github-readme-stats.vercel.app/api/pin/?username=NamashivayamS&repo=Autonomous-CI-CD-Self-Healing-Agent&theme=tokyonight&hide_border=true)](https://github.com/NamashivayamS/Autonomous-CI-CD-Self-Healing-Agent)
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Domain | Core Intelligence |
+|:---|:---:|:---|
+| **Amazon Ad & Sales Intelligence Agent** | E-Commerce | Reads live ad data, detects decay patterns, executes optimizations autonomously |
+| **Opalite — CI/CD Self-Healing Agent** | DevOps / Infra | Monitors pipelines, diagnoses root cause, self-heals — zero human touch |
+| **NexaEstate Pro — Spatial Reasoning Engine** | PropTech / AI | Spatial AI that understands multi-dimensional environments and reasons over them |
+| **FuelMate — Smart Fuel Predictor** | IoT / ML | Predictive mileage intelligence with anomaly detection |
+| **Microblog — Real-Time Social Platform** | Full Stack | Event-driven architecture with sub-second live feeds |
+| **Healthcare Conversational AI** | HealthTech | BERT-powered symptom detection with guided clinical reasoning |
+| **Voice-Driven AI Mock Interview** | EdTech / NLP | Speaks, listens, evaluates — end-to-end voice AI interview loop |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## `< Tech Arsenal />`
+
+<div align="center">
+
+**Core Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI / ML Stack**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+**Backend & Infra**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## `< Featured />`
+
+<div align="center">
+
+[![Opalite](https://github-readme-stats.vercel.app/api/pin/?username=NamashivayamS&repo=Autonomous-CI-CD-Self-Healing-Agent&theme=midnight-purple&hide_border=true&title_color=6C63FF&icon_color=6C63FF)](https://github.com/NamashivayamS/Autonomous-CI-CD-Self-Healing-Agent)
 
 </div>
 
@@ -66,28 +112,32 @@ Tools       →  Git · Jupyter · VS Code · Kaggle
 <div align="center">
 
 ```
- ██████████████████████████████████████████████████
- █                                                █
- █        [ ACCESS RESTRICTED ]                   █
- █                                                █
- █   NexaEstate Pro — Autonomous Spatial AI       █
- █   Status        : Under active development     █
- █   Visibility    : Private                      █
- █   Stack         : Python · Gemini · React      █
- █                                                █
- █   Curious enough to want access?               █
- █   Drop a message on LinkedIn — let's talk.     █
- █                                                █
- ██████████████████████████████████████████████████
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   > INITIALIZING SECURE CHANNEL...                      │
+│   > AUTHENTICATING USER...                              │
+│   > STATUS: ACCESS RESTRICTED                           │
+│                                                         │
+│   PROJECT   :  NexaEstate Pro                           │
+│   TYPE      :  Autonomous Spatial Reasoning Engine      │
+│   STACK     :  Python · Gemini · React · PostgreSQL     │
+│   STATUS    :  Active development — not public yet      │
+│                                                         │
+│   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  │
+│                                                         │
+│   Think you have what it takes to see this?             │
+│   Prove it. — Connect on LinkedIn.                      │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
-[![Request Access](https://img.shields.io/badge/Request_Access-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/namashivayam-s-89602028a)
+[![Unlock Access](https://img.shields.io/badge/Request_Access-Connect_on_LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/namashivayam-s-89602028a)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### Contribution Activity
+## `< Activity />`
 
 <div align="center">
 
@@ -95,17 +145,21 @@ Tools       →  Git · Jupyter · VS Code · Kaggle
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Namashivayam%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/namashivayam-s-89602028a)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-NamashivayamS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NamashivayamS)
 
 <br/>
 
-*"The next frontier isn't just AI - it's AI that acts, decides, and evolves on its own."*
+```
+"The next frontier isn't just AI —
+ it's AI that acts, decides, and evolves on its own."
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=&animation=fadeIn" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:6C63FF&height=120&section=footer" />
