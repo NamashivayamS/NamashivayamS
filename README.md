@@ -104,7 +104,7 @@ Tools       →  Git · Jupyter · VS Code · Kaggle
 
 <br/>
 
-*"The next frontier isn't just AI — it's AI that acts, decides, and evolves on its own."*
+*"The next frontier isn't just AI - it's AI that acts, decides, and evolves on its own."*
 
 </div>
 
