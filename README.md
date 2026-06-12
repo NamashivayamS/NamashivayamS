@@ -6,15 +6,13 @@
 
 <div align="center">
 
-![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&lines=Agentic+AI+Systems+%E2%86%92+Built+from+scratch;Self-Healing+CI%2FCD+%E2%86%92+No+human+needed;Spatial+Reasoning+Engine+%E2%86%92+Thinking+in+3D;NLP+%2B+Healthcare+%E2%86%92+Real+lives%2C+real+impact;Finance+AI+%E2%86%92+Where+data+meets+decisions)
+![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&lines=Agentic+AI+Systems+%E2%86%92+Built+from+scratch;Self-Healing+CI%2FCD+%E2%86%92+Autonomous+by+design;Spatial+Reasoning+Engine+%E2%86%92+Thinking+in+3D;NLP+%2B+Healthcare+%E2%86%92+Real+lives%2C+real+impact;Finance+AI+%E2%86%92+Where+data+meets+decisions)
 
 </div>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-Namashivayam%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/namashivayam-s-89602028a)
-&nbsp;
-![Visitors](https://api.visitorbadge.io/api/visitors?path=NamashivayamS&label=Profile%20Visits&labelColor=%230f0c29&countColor=%236C63FF&style=for-the-badge)
 
 </div>
 
@@ -26,7 +24,7 @@
 
 ## `< Who am I />`
 
-```python
+```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║   class Namashivayam:                                        ║
@@ -47,7 +45,7 @@
 ```
 
 > I don't chase trends. I build the infrastructure that *becomes* the trend.  
-> My systems operate autonomously — they detect, decide, and act without waiting for a human.
+> My systems operate autonomously — they detect, decide, and act with precision.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -55,10 +53,10 @@
 
 <div align="center">
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Domain | Core Intelligence |
+| System | Domain | Core Intelligence |
 |:---|:---:|:---|
 | **Amazon Ad & Sales Intelligence Agent** | E-Commerce | Reads live ad data, detects decay patterns, executes optimizations autonomously |
-| **Opalite — CI/CD Self-Healing Agent** | DevOps / Infra | Monitors pipelines, diagnoses root cause, self-heals — zero human touch |
+| **Opalite — CI/CD Self-Healing Agent** | DevOps / Infra | Monitors pipelines, diagnoses root cause, and restores systems autonomously |
 | **NexaEstate Pro — Spatial Reasoning Engine** | PropTech / AI | Spatial AI that understands multi-dimensional environments and reasons over them |
 | **FuelMate — Smart Fuel Predictor** | IoT / ML | Predictive mileage intelligence with anomaly detection |
 | **Microblog — Real-Time Social Platform** | Full Stack | Event-driven architecture with sub-second live feeds |
@@ -103,7 +101,7 @@
 
 <div align="center">
 
-[![Opalite](https://github-readme-stats.vercel.app/api/pin/?username=NamashivayamS&repo=Autonomous-CI-CD-Self-Healing-Agent&theme=midnight-purple&hide_border=true&title_color=6C63FF&icon_color=6C63FF)](https://github.com/NamashivayamS/Autonomous-CI-CD-Self-Healing-Agent)
+[![Opalite](https://github-readme-stats.vercel.app/api/pin/?username=NamashivayamS&repo=Autonomous-CI-CD-Self-Healing-Agent&theme=midnight-purple&hide_border=true&title_color=6C63FF&icon_color=6C63FF&bg_color=0f0c29)](https://github.com/NamashivayamS/Autonomous-CI-CD-Self-Healing-Agent)
 
 </div>
 
@@ -160,6 +158,6 @@
  it's AI that acts, decides, and evolves on its own."
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=&animation=fadeIn" />
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" />
