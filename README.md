@@ -28,7 +28,7 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║   class Namashivayam:                                        ║
-║       degree   = "M.Sc Data Science"                        ║
+║       degree   = "M.Sc Data Science"                         ║
 ║       base     = "India"                                     ║
 ║       focus    = [                                           ║
 ║                    "Agentic AI",                             ║
@@ -37,7 +37,7 @@
 ║                    "Healthcare AI",                          ║
 ║                    "Finance Intelligence",                   ║
 ║                 ]                                            ║
-║       mindset  = "If it can think, decide & act - I build"  ║
+║       mindset  = "If it can think, decide & act - I build"   ║
 ║                                                              ║
 ║   # Not side projects. Not demos. Systems.                   ║
 ║                                                              ║
