@@ -37,7 +37,7 @@
 ║                    "Healthcare AI",                          ║
 ║                    "Finance Intelligence",                   ║
 ║                 ]                                            ║
-║       mindset  = "If it can think, decide & act — I build"  ║
+║       mindset  = "If it can think, decide & act - I build"  ║
 ║                                                              ║
 ║   # Not side projects. Not demos. Systems.                   ║
 ║                                                              ║
@@ -118,10 +118,10 @@
 │                                                         │
 │   PROJECT   :  NexaEstate Pro                           │
 │   TYPE      :  Autonomous Spatial Reasoning Engine      │
-│   STACK     :  Python · Gemini · React · PostgreSQL     │
+│   STACK     :  Python · LLM · React · PostgreSQL        │
 │   STATUS    :  Active development — not public yet      │
 │                                                         │
-│   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  │
+│   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │
 │                                                         │
 │   Think you have what it takes to see this?             │
 │   Prove it. — Connect on LinkedIn.                      │
