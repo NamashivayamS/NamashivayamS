@@ -31,7 +31,7 @@
 |:--|:--|:--|
 | **[Self-Healing CI/CD Agent](https://github.com/NamashivayamS/Autonomous-CI-CD-Self-Healing-Agent)** | Detects, diagnoses and fixes failing GitHub Actions pipelines. A multi-agent debate loop checks each patch before it opens a pull request. | FastAPI, LangGraph, Groq (Llama 3.3) |
 | **[Microblog AI Platform](https://github.com/NamashivayamS/Microblog_AI_Platform)** | Twitter-like microblog with real-time updates over Server-Sent Events, clean architecture and a generated Python SDK. | FastAPI, React, SQLite, SQLAlchemy |
-| **[FuelMate](https://github.com/NamashivayamS/fuel-mate)** | Predicts real-world fuel consumption from driving style, terrain, traffic, weather and vehicle data. | Flask, scikit-learn (Random Forest), Google Maps API |
+| **[FuelMate](https://github.com/NamashivayamS/fuel-mate)** | Predicts a trip's fuel and cost from the Google Maps route (distance and elevation), the vehicle, driving style and temperature. | Flask, scikit-learn (Random Forest), Google Maps API |
 | **[AI Mock Interview](https://github.com/NamashivayamS/Voice-Driven-AI-Mock-Interview-System)** | Asks interview questions by voice, listens to the answers and scores them with NLP. | Flask, Web Speech API, NLP |
 | **[Sepsis prediction (ICU)](https://github.com/NamashivayamS/sepsis-prediction-ICU-Machine-Learning)** | Predicts sepsis in ICU patients from the PhysioNet/CinC 2019 data. | Random Forest, XGBoost |
 | **Live speech translation** (internship, private) | Live subtitles and translation for meetings and calls in English and Indian languages. | Python, FastAPI, Whisper, Docker |
