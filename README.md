@@ -22,7 +22,7 @@
 
 - M.Sc Data Science student who likes building complete systems: models, backend, frontend, deployment and tests.
 - AI engineering intern, building a live speech translation system for meetings and calls.
-- Interested in speech and language technology for Indian languages, NLP, and AI agents.
+- Interested in speech and language technology, NLP, and AI agents.
 - Open to roles in machine learning, NLP and AI engineering.
 
 ## Featured work
